@@ -1,0 +1,3 @@
+New Patient Data:
+{'Age': 45, 'BMI': 29.0, 'Glucose': 135, 'BloodPressure': 85}
+Prediction (1 = Diabetes, 0 = No Diabetes): 1
